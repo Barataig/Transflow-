@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+motor
+pydantic
+redis
+faststream[rabbit]
+python-dotenv
